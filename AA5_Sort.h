@@ -12,6 +12,6 @@
   * 'arr' - pointer to first element of the array;
   * 'cnt' - array elements count.
   */
- void AA5_Sort( int *arr, int cnt );
+ void aa5_sort( int *arr, int cnt );
  
  #endif

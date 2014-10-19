@@ -6,7 +6,7 @@
 
 #include "../AA5_Sort.h"
 
-void AA5_Sort( int *arr, int cnt )
+void aa5_sort( int *arr, int cnt )
 {
   if( arr == NULL || cnt < 2 )
     return;
